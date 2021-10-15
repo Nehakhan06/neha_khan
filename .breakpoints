@@ -1,0 +1,26 @@
+{
+  "files": {
+    "100docDay1.py": [
+      {
+        "id": "d8f827a4-72ea-4dd4-8086-e8096951aff4",
+        "line": 1,
+        "version": 179,
+        "index": 0
+      },
+      {
+        "id": "5e7ea4cb-6740-480e-804c-7bb3a264e176",
+        "line": 3,
+        "version": 179,
+        "index": 86
+      }
+    ],
+    "main.py": [
+      {
+        "id": "51ac5309-9d72-4217-a539-4403b24a1b2f",
+        "line": 1,
+        "version": 994,
+        "index": 0
+      }
+    ]
+  }
+}
